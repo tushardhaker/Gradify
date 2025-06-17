@@ -2,7 +2,7 @@
 
 Gradeify is a web-based academic management system built for the Computer Science and Engineering (Artificial Intelligence) Department. It provides **dedicated dashboards** for Students, Faculty, and HOD to streamline the academic workflow.
 
-![Homepage Screenshot](./assets/gradeify-homepage.png)
+![Homepage Screenshot](https://drive.google.com/file/d/1zfQZm6Gf-F_8VbWg8zCKCyiPcM1ptC4j/view?usp=sharing)
 
 ---
 
